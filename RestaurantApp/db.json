@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Gaurav Kumar Jain",
+      "email": "jaingaurav@gmail.com",
+      "mobile": "9891665634",
+      "address": "SH 250, Shastri Nagar Ghaziabad",
+      "services": "Chai paani"
+    },
+    {
+      "id": 3,
+      "name": "Daksh Jain",
+      "email": "daksh@gmail.com",
+      "mobile": "8888888888",
+      "address": "75/1, Anand Cottage",
+      "services": "Mumfalli wala"
+    },
+    {
+      "id": 4,
+      "name": "Diamond Hotel",
+      "email": "diamond@gmail.com",
+      "mobile": "98982938323",
+      "address": "diamond126@gmail.com",
+      "services": "Birthday Party"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Gaurav Mehra",
+      "email": "mehragaurav@gmail.com",
+      "mobile": "7777777777",
+      "password": "gaurav123",
+      "id": 1
+    },
+    {
+      "name": "Anubhav Jain",
+      "email": "anubhavjain126@gmail.com",
+      "mobile": "87878787877",
+      "password": "anubhav123",
+      "id": 2
+    },
+    {
+      "name": "Neelam Jain",
+      "email": "neelugarg123@gmail.com",
+      "mobile": "8888888888",
+      "password": "neelu123",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
